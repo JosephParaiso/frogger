@@ -12,7 +12,7 @@ var road_0_y = [-0.25, -0.55];
 var road_1_y = [0.15, -0.15];
 var road_2_y = [0.55, 0.25];
 
-//how fast the cars move
+//how fast the cars move in each lane
 var spd0 = -0.02;
 var spd1 = -0.03;
 var spd2 = -0.025;
